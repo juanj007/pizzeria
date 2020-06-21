@@ -1,4 +1,7 @@
- [
+{
+ "actors":[
+  
+
   {
   "id": 1,
   "name": "Instagram Firebase",
@@ -12,3 +15,4 @@
   "imageUrl": "https://letsbuildthatapp-videos.s3-us-west-2.amazonaws.com/a6180731-c077-46e7-88d5-4900514e06cf"
   }
   ]
+}
